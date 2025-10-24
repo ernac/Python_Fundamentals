@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Databricks_DatabricksEngineering",
+			"path": "../../../Databricks/Databricks_DatabricksEngineering"
+		}
+	],
+	"settings": {}
+}
